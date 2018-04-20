@@ -28,6 +28,6 @@ while True:
         if guess(k):
             break
     elif line == 'history' or line == 'h?':
-        print list(history)
+        print list(history)  
 
 pickle.dump(history, open('history', 'w'))  # 把队列存入文件
