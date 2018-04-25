@@ -10,4 +10,4 @@ t = f.read()
 print t
 print t.decode('gbk')
 
-# Python3 看视频
+# Python3 看视频5-1
