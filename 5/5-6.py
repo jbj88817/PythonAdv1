@@ -8,4 +8,3 @@ print f.read(100)
 
 ntf = NamedTemporaryFile()
 print ntf.name
-
