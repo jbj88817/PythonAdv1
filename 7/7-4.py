@@ -1,3 +1,6 @@
+# coding=utf-8
+# 如何创建可管理的对象属性
+
 class Circle(object):
     def __init__(self, radius):
         self.radius = radius
