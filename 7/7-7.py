@@ -1,3 +1,6 @@
+# coding=utf-8
+# weakref 用来及时回收object
+
 import weakref
 
 
