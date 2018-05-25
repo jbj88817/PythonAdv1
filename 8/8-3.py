@@ -1,3 +1,6 @@
+# coding=utf-8
+# 在线程进行事件通知
+
 from threading import Event, Thread
 
 
