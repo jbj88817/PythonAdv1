@@ -1,3 +1,6 @@
+# coding=utf-8
+# 如何为被装饰的函数保存元数据
+
 from functools import wraps
 
 
